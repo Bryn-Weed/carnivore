@@ -7,6 +7,10 @@ body {
   margin-bottom:60px;
   font-family:'Khand', sans-serif;
 }
+
+#bbq-img{
+  transform:translateX(-30px);
+}
 .footer {
   position:absolute;
   bottom:0;
