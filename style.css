@@ -429,11 +429,14 @@ padding-bottom:15px;
 
   #team-img {display:none;}
 
-  #contact .right-panel{padding-left: 0 !important;}
+  #contact .right-panel{padding-left: 0 !important;
+  background-position:bottom left;}
 
   #contact h2{
     font-size: 1em;
   }
+
+
 
   #videoBBQ {display:none;}
 
